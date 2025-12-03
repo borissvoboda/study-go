@@ -1,5 +1,12 @@
 // Lesson 14nn
 
+/* ADDITION: Add C header files:
+add CGO_CFLAGS
+import "C" // mandatory
+...
+
+*/
+
 package main
 
 import "fmt"
@@ -23,3 +30,4 @@ Only 1 main function.
 
 
 */
+
